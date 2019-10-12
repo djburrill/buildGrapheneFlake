@@ -6,5 +6,5 @@ Build graphene monolayer flakes of a specified radius. The algorithm is quite sl
 This program uses command line options to specify the size (in terms of ring units) of the graphene flake and name of output XYZ:
 
 ```bash
-python buildGrapheneFlake -r radius -f fileName
+python buildGrapheneFlake.py -r radius -f fileName
 ```
